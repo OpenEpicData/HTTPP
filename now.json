@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "now-lumen-core",
+  "name": "proxy",
   "scope": "openepicdata",
   "regions": [
     "all"
@@ -17,6 +17,6 @@
     }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "public/index.php" } 
+    { "src": "/(.*)", "dest": "public/index.php" }
   ]
 }
