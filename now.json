@@ -1,7 +1,5 @@
 {
   "version": 2,
-  "name": "proxy",
-  "scope": "openepicdata",
   "regions": [
     "all"
   ],
